@@ -1,0 +1,23 @@
+{
+  "name": "tsconfig-comments",
+  "version": "1.0.0",
+  "description": "This example demonstrates that comments placed in `tsconfig.json` will not prevent Serverless TypeScript Functions from being deployed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curated-tests/tsconfig-comments.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/curated-tests/tsconfig-comments/issues"
+  },
+  "homepage": "https://github.com/curated-tests/tsconfig-comments#readme",
+  "dependencies": {
+    "@vercel/node": "^1.8.2"
+  }
+}
